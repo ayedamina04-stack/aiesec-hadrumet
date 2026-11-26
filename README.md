@@ -1,16 +1,52 @@
-# React + Vite
+# AIESEC Hadrumet Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A digital platform dedicated to **AIESEC in Hadrumet**, designed to showcase our Local Committee, its identity, activities, opportunities, and the people behind it.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This website aims to strengthen AIESEC Hadrumet's digital presence by providing visitors with an accessible space to discover our LC, explore its initiatives, and connect with its community.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Home:** Introduction to AIESEC Hadrumet and its identity.
+- **Academy:** Learning and development resources.
+- **Tools:** Useful platforms and resources for members.
+- **OGTa Numbers:** An overview of our performance and impact.
+- **Wall of Tevaryans:** Celebrating our members and community.
+- **Memories:** Highlights and moments from our journey.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Getting Started
+
+```bash
+git clone https://github.com/ayedamina04-stack/aiesec-hadrumet.git
+cd aiesec-hadrumet
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Deployment
+
+The website is deployed using **Vercel**.
+
+**Live Website:** https://aiesec-hadrumet-uth4.vercel.app/
+
+## Repository
+
+https://github.com/ayedamina04-stack/aiesec-hadrumet
+
+---
+
+*Once a Tevaryan, always a Tevaryan.*
