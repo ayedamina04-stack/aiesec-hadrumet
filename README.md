@@ -48,5 +48,3 @@ The website is deployed using **Vercel**.
 https://github.com/ayedamina04-stack/aiesec-hadrumet
 
 ---
-
-*Once a Tevaryan, always a Tevaryan.*
